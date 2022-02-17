@@ -6,6 +6,6 @@ __pycache__
 
 .env
 
-.idea
+.idea/*
 
 template/*
